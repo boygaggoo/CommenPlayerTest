@@ -2,7 +2,10 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-UDP test.To do...
+UDP test.
+```xml
+    export COMMON_FF_CFG_FLAGS="$COMMON_FF_CFG_FLAGS --enable-protocol=udp"
+```
 
 ## Licence
 
